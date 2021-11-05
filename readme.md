@@ -4,7 +4,8 @@
 <a id="en-readme"></a>
 ## English | [Português](#pt-readme)
 
-Olá, neste repositório estão alguns algoritmos desenvolvidos na linguagem Shell Script durante meus estudos.
+
+**Olá**, neste repositório estão alguns algoritmos desenvolvidos na linguagem Shell Script durante meus estudos.
 A linguagem Shell Script integra comandos de Linux e sua própria sintaxe. 
 
 
@@ -24,7 +25,9 @@ Mas lembre-se que em casos onde o script busca referencia da máquina o compilad
 <a id="pt-readme"></a>
 ## [English](#en-readme) | Português
 
-Hi, such a pleasure to see you around. This repository contains some algorithms developed in Shell Script language during my studies.
+
+
+**Hi, such a pleasure to see you around!** This repository contains some algorithms developed in Shell Script language during my studies. 
 The Shell Script language integrates Linux commands with its own syntax.
 
 
