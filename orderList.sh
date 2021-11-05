@@ -13,3 +13,19 @@ while read word && [ "$word" != sair ]; do
    echo ${words[@]} | fmt -1 | sort
    echo -e "\n" 
 done
+
+# ENGLISH VERSION
+# Instructions: Develop a script that receives words interactively and, for each word received, displays as
+#result, those words sorted. When the word “exit” is informed, the script is terminated.
+
+words=($@)
+let index=0
+echo 'Inform the word to be included in the ordered list, or type [ exit ] to close the application: '
+while read word && [ "$word" != exit ]; do
+ : 
+   words[$index]="$word"
+   index=$((index+1))
+   echo -e "\n" 
+   echo ${words[@]} | fmt -1 | sort
+   echo -e "\n" 
+done
