@@ -1,8 +1,8 @@
 ﻿<h1 align="center">
   <br> Shell/Bash Scripts </h1>
 
-<a id="en-readme"></a>
-## English | [Português](#pt-readme)
+<a id="pt-readme"></a>
+## [English](#en-readme) | Português
 
 
 **Olá**, neste repositório estão alguns algoritmos desenvolvidos na linguagem Shell Script durante meus estudos.
@@ -22,9 +22,8 @@ Mas lembre-se que em casos onde o script busca referencia da máquina o compilad
 
 -------
 
-<a id="pt-readme"></a>
-## [English](#en-readme) | Português
-
+<a id="en-readme"></a>
+## English | [Português](#pt-readme)
 
 
 **Hi, such a pleasure to see you around!** This repository contains some algorithms developed in Shell Script language during my studies. 
